@@ -1,0 +1,18 @@
+table {
+  border-collapse: collapse;
+}
+
+td {
+  text-align: center;
+}
+
+.table-cell {
+  border: 1px solid #000;
+  width: 15px;
+  height: 15px;
+}
+
+.table-cell_black {
+  background-color: #000;
+}
+/*# sourceMappingURL=style.css.map */

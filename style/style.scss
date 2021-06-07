@@ -1,0 +1,14 @@
+table {
+  border-collapse: collapse;
+}
+td {
+  text-align: center;
+}
+.table-cell {
+  border: 1px solid #000;
+  width: 15px;
+  height: 15px;
+  &_black {
+    background-color: #000;
+  }
+}
